@@ -1,24 +1,42 @@
-[INFO ] 2023-04-23 18:20:46.948 [main] BloggingSiteTesting - URL is opened
-[INFO ] 2023-04-23 18:20:47.132 [main] BloggingSiteTesting - Username entered successfully
-[INFO ] 2023-04-23 18:20:47.238 [main] BloggingSiteTesting - Password entered successfully
-[INFO ] 2023-04-23 18:20:50.728 [main] BloggingSiteTesting - Second test case completed!
-[INFO ] 2023-04-23 18:21:10.745 [main] BloggingSiteTesting - Third test case completed!
-[INFO ] 2023-04-23 18:21:19.565 [main] BloggingSiteTesting - Fourth test case completed!
-[INFO ] 2023-04-23 18:26:50.816 [main] BloggingSiteTesting - URL is opened
-[INFO ] 2023-04-23 18:26:51.005 [main] BloggingSiteTesting - Username entered successfully
-[INFO ] 2023-04-23 18:26:51.110 [main] BloggingSiteTesting - Password entered successfully
-[INFO ] 2023-04-23 18:26:54.378 [main] BloggingSiteTesting - Second test case completed!
-[INFO ] 2023-04-23 18:27:14.437 [main] BloggingSiteTesting - Third test case completed!
-[INFO ] 2023-04-23 18:27:22.987 [main] BloggingSiteTesting - Fourth test case completed!
-[INFO ] 2023-04-23 18:28:30.215 [main] BloggingSiteTesting - URL is opened
-[INFO ] 2023-04-23 18:28:30.380 [main] BloggingSiteTesting - Username entered successfully
-[INFO ] 2023-04-23 18:28:30.480 [main] BloggingSiteTesting - Password entered successfully
-[INFO ] 2023-04-23 18:28:33.731 [main] BloggingSiteTesting - Second test case completed!
-[INFO ] 2023-04-23 18:28:53.749 [main] BloggingSiteTesting - Third test case completed!
-[INFO ] 2023-04-23 18:29:02.571 [main] BloggingSiteTesting - Fourth test case completed!
-[INFO ] 2023-04-23 20:15:02.871 [main] BloggingSiteTesting - URL is opened
-[INFO ] 2023-04-23 20:15:03.068 [main] BloggingSiteTesting - Username entered successfully
-[INFO ] 2023-04-23 20:15:03.196 [main] BloggingSiteTesting - Password entered successfully
-[INFO ] 2023-04-23 20:15:06.427 [main] BloggingSiteTesting - Second test case completed!
-[INFO ] 2023-04-23 20:15:26.484 [main] BloggingSiteTesting - Third test case completed!
-[INFO ] 2023-04-23 20:15:35.329 [main] BloggingSiteTesting - Fourth test case completed!
+[INFO ] 2023-04-25 10:34:30.571 [main] BloggingSiteTesting - URL is opened
+[INFO ] 2023-04-25 10:34:30.830 [main] BloggingSiteTesting - Username entered successfully
+[INFO ] 2023-04-25 10:34:31.015 [main] BloggingSiteTesting - Password entered successfully
+[INFO ] 2023-04-25 10:34:34.426 [main] BloggingSiteTesting - Second test case completed!
+[INFO ] 2023-04-25 10:34:55.073 [main] BloggingSiteTesting - Third test case completed!
+[INFO ] 2023-04-25 10:35:03.677 [main] BloggingSiteTesting - Fourth test case completed!
+[INFO ] 2023-04-25 12:46:59.443 [main] BloggingSiteTesting - URL is opened
+[INFO ] 2023-04-25 12:46:59.632 [main] BloggingSiteTesting - Username entered successfully
+[INFO ] 2023-04-25 12:46:59.742 [main] BloggingSiteTesting - Password entered successfully
+[INFO ] 2023-04-25 12:47:02.979 [main] BloggingSiteTesting - Second test case completed!
+[INFO ] 2023-04-25 12:47:23.015 [main] BloggingSiteTesting - Third test case completed!
+[INFO ] 2023-04-25 12:47:31.608 [main] BloggingSiteTesting - Fourth test case completed!
+[INFO ] 2023-04-25 23:10:01.934 [main] BloggingSiteTesting - URL is opened
+[INFO ] 2023-04-25 23:10:02.138 [main] BloggingSiteTesting - Username entered successfully
+[INFO ] 2023-04-25 23:10:02.248 [main] BloggingSiteTesting - Password entered successfully
+[INFO ] 2023-04-25 23:10:05.715 [main] BloggingSiteTesting - Second test case completed!
+[INFO ] 2023-04-25 23:10:25.840 [main] BloggingSiteTesting - Third test case completed!
+[INFO ] 2023-04-25 23:10:34.683 [main] BloggingSiteTesting - Fourth test case completed!
+[INFO ] 2023-04-25 23:12:53.240 [main] BloggingSiteTesting - URL is opened
+[INFO ] 2023-04-25 23:12:53.302 [main] BloggingSiteTesting - URL is opened
+[INFO ] 2023-04-25 23:12:53.524 [main] BloggingSiteTesting - Username entered successfully
+[INFO ] 2023-04-25 23:12:53.558 [main] BloggingSiteTesting - Username entered successfully
+[INFO ] 2023-04-25 23:12:53.685 [main] BloggingSiteTesting - Password entered successfully
+[INFO ] 2023-04-25 23:12:53.716 [main] BloggingSiteTesting - Password entered successfully
+[INFO ] 2023-04-25 23:12:56.984 [main] BloggingSiteTesting - Second test case completed!
+[INFO ] 2023-04-25 23:12:57.062 [main] BloggingSiteTesting - Second test case completed!
+[INFO ] 2023-04-25 23:13:17.194 [main] BloggingSiteTesting - Third test case completed!
+[INFO ] 2023-04-25 23:13:17.271 [main] BloggingSiteTesting - Third test case completed!
+[INFO ] 2023-04-25 23:13:25.780 [main] BloggingSiteTesting - Fourth test case completed!
+[INFO ] 2023-04-25 23:13:25.843 [main] BloggingSiteTesting - Fourth test case completed!
+[INFO ] 2023-04-25 23:21:19.634 [main] BloggingSiteTesting - URL is opened
+[INFO ] 2023-04-25 23:21:19.831 [main] BloggingSiteTesting - Username entered successfully
+[INFO ] 2023-04-25 23:21:19.949 [main] BloggingSiteTesting - Password entered successfully
+[INFO ] 2023-04-25 23:21:23.211 [main] BloggingSiteTesting - Second test case completed!
+[INFO ] 2023-04-25 23:21:43.270 [main] BloggingSiteTesting - Third test case completed!
+[INFO ] 2023-04-25 23:21:52.351 [main] BloggingSiteTesting - Fourth test case completed!
+[INFO ] 2023-04-25 23:23:04.250 [main] BloggingSiteTesting - URL is opened
+[INFO ] 2023-04-25 23:23:04.424 [main] BloggingSiteTesting - Username entered successfully
+[INFO ] 2023-04-25 23:23:04.531 [main] BloggingSiteTesting - Password entered successfully
+[INFO ] 2023-04-25 23:23:07.804 [main] BloggingSiteTesting - Second test case completed!
+[INFO ] 2023-04-25 23:23:27.931 [main] BloggingSiteTesting - Third test case completed!
+[INFO ] 2023-04-25 23:23:37.285 [main] BloggingSiteTesting - Fourth test case completed!

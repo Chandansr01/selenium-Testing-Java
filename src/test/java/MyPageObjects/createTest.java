@@ -39,6 +39,11 @@ public class createTest{
 		}
 		return absolutePathLocation;
 	}
+	@FindBy(name = "post")
+	WebElement Post;
+	
+	@FindBy(name = "deletebutton")
+	WebElement dlt;
 	
 	@FindBy(id = "navbarComp")
 	WebElement navcomp;
@@ -114,7 +119,13 @@ public class createTest{
 			action.moveToElement(fashioncat).click(fashioncat).build().perform();
 			test.addScreenCaptureFromPath(capture(ldriver));
 			test.pass(" 200 BLog was created in correct category");
-			Thread.sleep(4000);
+			Thread.sleep(2000);
+			action.moveToElement(Post).click(Post).build().perform();
+			Thread.sleep(2000);
+			action.moveToElement(dlt).click(dlt).build().perform();
+			test.pass("Blog deleted successfully");
+			
+			
 		}catch (InterruptedException e) {
 	        e.printStackTrace();
 	        System.out.println("we encountered an unexpected error!!");
